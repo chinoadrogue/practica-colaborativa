@@ -1,1 +1,1 @@
-console.log("Archivo de Práctica!!!");
+console.log("Archivo de Práctica!");
