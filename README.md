@@ -1,3 +1,3 @@
 # practica-colaborativa
 
-Primer modificación colaborativa!!
+Segunda practica colaborativa!!
